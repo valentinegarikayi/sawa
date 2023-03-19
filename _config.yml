@@ -23,7 +23,7 @@ navbar-links:
   About Us: "about"
   Resources:
     - UK Health and Care Visa: "https://www.gov.uk/health-care-worker-visa"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Our experiences: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 ################
@@ -88,12 +88,12 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 100
@@ -124,7 +124,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#D58372"
+navbar-col: "#FF6347"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
