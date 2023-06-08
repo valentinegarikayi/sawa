@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-subtitle: Subtitle
+title: About PAWA
+subtitle: Pan-African Workers Assocaition (PAWA)
 ---
 
 We are ...
